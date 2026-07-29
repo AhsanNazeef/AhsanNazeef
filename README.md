@@ -85,7 +85,7 @@
 <tr>
 <td colspan="2" valign="top">
 
-**🛫 [ATPL Aviation](https://atplaviation.com)** — *Personal Project (Live)*
+**🛫 [ATPL Aviation](https://atplaviation.com)** — 
 
 REST API powering an ATPL (Airline Transport Pilot License) exam-prep platform. Layered architecture (routes → controllers → services) covering subjects, topics, and question banks, with JWT & Google OAuth authentication, scheduled jobs, and transactional email.
 
@@ -158,10 +158,6 @@ End-to-end restaurant management platform unifying POS and AI-driven functionali
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhsanNazeef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanNazeef&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhsanNazeef&theme=tokyonight&hide_border=true" />
 </div>
