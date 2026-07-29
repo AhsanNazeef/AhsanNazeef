@@ -94,7 +94,7 @@ REST API powering an ATPL (Airline Transport Pilot License) exam-prep platform. 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **Extreme Networks Component Library** — *Emumba*
 
@@ -103,7 +103,7 @@ Reusable, accessible web components built with **Lit** powering multiple Extreme
 `Lit` `Web Components` `i18n` `Accessibility`
 
 </td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **Website Builder** — *AIO*
 
