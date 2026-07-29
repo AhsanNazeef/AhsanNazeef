@@ -103,6 +103,7 @@ Reusable, accessible web components built with **Lit** powering multiple Extreme
 `Lit` `Web Components` `i18n` `Accessibility`
 
 </td>
+</tr>
 <td colspan="2" valign="top">
 
 **Website Builder** — *AIO*
