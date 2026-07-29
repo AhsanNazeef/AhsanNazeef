@@ -16,17 +16,17 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
-- 🔧 Senior Software Engineer with **4+ years** of full-stack experience, specializing in **JavaScript, React, and Node.js**
-- 🚀 Proven track record leading small dev teams, shipping scalable products, and owning projects end-to-end
-- 🤖 Heavy adopter of **AI-augmented development** — GitHub Copilot, Cursor, Claude Code, and Codex are part of my daily workflow
-- ♿ Committed to modern web standards and **WCAG accessibility** guidelines in everything I ship
-- 🎓 B.S. in Computer Science — COMSATS University (2022)
+- Senior Software Engineer with **4+ years** of full-stack experience, specializing in **JavaScript, React, and Node.js**
+- Proven track record leading small dev teams, shipping scalable products, and owning projects end-to-end
+- Heavy adopter of **AI-augmented development** — GitHub Copilot, Cursor, Claude Code, and Codex are part of my daily workflow
+- Committed to modern web standards and **WCAG accessibility** guidelines in everything I ship
+- B.S. in Computer Science — COMSATS University (2022)
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -79,13 +79,13 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td colspan="2" valign="top">
 
-**🛫 [ATPL Aviation](https://atplaviation.com)** — 
+**[ATPL Aviation](https://atplaviation.com)**
 
 REST API powering an ATPL (Airline Transport Pilot License) exam-prep platform. Layered architecture (routes → controllers → services) covering subjects, topics, and question banks, with JWT & Google OAuth authentication, scheduled jobs, and transactional email.
 
@@ -96,7 +96,7 @@ REST API powering an ATPL (Airline Transport Pilot License) exam-prep platform. 
 <tr>
 <td width="50%" valign="top">
 
-**🧱 Extreme Networks Component Library** — *Emumba*
+**Extreme Networks Component Library** — *Emumba*
 
 Reusable, accessible web components built with **Lit** powering multiple Extreme Networks products, with localization support and cross-team design consistency.
 
@@ -105,7 +105,7 @@ Reusable, accessible web components built with **Lit** powering multiple Extreme
 </td>
 <td width="50%" valign="top">
 
-**🎨 Website Builder** — *AIO*
+**Website Builder** — *AIO*
 
 A no-code, Squarespace-style platform letting restaurants build websites via drag-and-drop, with real-time preview and dynamic theming.
 
@@ -113,68 +113,31 @@ A no-code, Squarespace-style platform letting restaurants build websites via dra
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔐 TryHackMe** — *Devsinc*
-
-Rebuilt a cybersecurity learning platform from EJS to a **React + TypeScript** v2, with a Node/Express/MongoDB backend and A/B testing via Optimizely & Segment.
-
-`React` `TypeScript` `Node.js` `MongoDB` `Jest`
-
-</td>
-<td width="50%" valign="top">
-
-**🏆 FlipFam** — *Devsinc*
-
-A mobile sports-prediction game. Led backend development with **Feathers.js**, MongoDB & Sequelize, RESTful APIs, WebSocket real-time features, and NFT reward mechanics.
-
-`Feathers.js` `Node.js` `MongoDB` `WebSockets`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎬 Vidbase** — *Devsinc*
-
-Video editing web app cutting long-form editing time by up to **85%**. Built the React/TypeScript front end with a serverless Firebase backend and AWS SDK integrations.
-
-`React` `TypeScript` `Firebase` `AWS`
-
-</td>
-<td width="50%" valign="top">
-
-**🍽️ AIO Restaurant Platform** — *AIO*
-
-End-to-end restaurant management platform unifying POS and AI-driven functionality, built with **React.js** and **Nest.js**.
-
-`React` `Nest.js` `POS`
-
-</td>
-</tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhsanNazeef&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- Meta Full-Stack Developer — Meta (Credly)
-- Meta Back-End Developer — Meta (Coursera)
-- Meta Front-End Developer — Meta (Coursera)
+- [Meta Full-Stack Developer — Meta (Credly)](https://www.credly.com/badges/a9ffa107-25e0-49fe-bbc2-311ac873e9e1/public_url)
+- [Meta Back-End Developer — Meta (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/SWRQL8JURRFT)
+- [Meta Front-End Developer — Meta (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/228ZBXLDD87L)
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-nazeef)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsannazeefahmed1141@gmail.com)
