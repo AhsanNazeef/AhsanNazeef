@@ -18,7 +18,7 @@
 
 ### About Me
 
-- Senior Software Engineer with **4+ years** of full-stack experience, specializing in **JavaScript, React, and Node.js**
+- Senior Software Engineer with **4.5+ years** of full-stack experience, specializing in **JavaScript, React, and Node.js**
 - Proven track record leading small dev teams, shipping scalable products, and owning projects end-to-end
 - Heavy adopter of **AI-augmented development** — GitHub Copilot, Cursor, Claude Code, and Codex are part of my daily workflow
 - Committed to modern web standards and **WCAG accessibility** guidelines in everything I ship
