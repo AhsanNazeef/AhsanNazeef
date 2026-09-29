@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-nazeef)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsannazeefahmed1141@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=AhsanNazeef&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
